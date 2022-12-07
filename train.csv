@@ -1,2 +1,2 @@
 t2,t2_label
-data/data_test/patid04_t2_tse_tra.nii.gz,data/data_test/prostatex_patid04_label.nii.gz
+data/data_test/patid04_t2_tse_tra.nii.gz,data/data_test/prostatex_patid04_label_resampled.nii.gz
